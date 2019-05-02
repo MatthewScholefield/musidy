@@ -2,4 +2,6 @@ build/
 cmake-build-*/
 .idea/
 *.sf2
-
+*.o
+*.so
+.depend
